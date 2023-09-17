@@ -15,12 +15,7 @@ const Map = () => {
         defaultPositionY={100}
       >
         <TransformComponent>
-          <img
-            src={map}
-            style={{ width: "100%", height: "100%" }}
-            className="map img"
-            alt="logo"
-          />
+          <img src={map} className="map img" alt="logo" />
         </TransformComponent>
       </TransformWrapper>
     </div>
