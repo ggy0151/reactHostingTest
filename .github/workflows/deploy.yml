@@ -40,7 +40,7 @@ jobs:
         run: npm install
 
       - name: Build app
-        run: npm run build
+        run: CI=false npm run build
 
       - name: Deploy react app
         uses: peaceiris/actions-gh-pages@v3
