@@ -13,7 +13,7 @@ import Typography from "@mui/material/Typography";
 
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
-    backgroundColor: theme.palette.common.black,
+    backgroundColor: theme.palette.common.yellow,
     color: theme.palette.common.white,
   },
   [`&.${tableCellClasses.body}`]: {
