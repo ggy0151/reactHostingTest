@@ -36,7 +36,6 @@ const Home = () => {
         backgroundRepeat: "no-repeat",
       }}
     >
-      <h2>Home</h2>
       <Button
         variant="primary"
         size="lg"
