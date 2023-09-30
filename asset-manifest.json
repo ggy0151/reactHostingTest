@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/reactHostingTest/static/css/main.964fdded.css",
-    "main.js": "/reactHostingTest/static/js/main.4e25f3e7.js",
+    "main.css": "/reactHostingTest/static/css/main.7fa30eac.css",
+    "main.js": "/reactHostingTest/static/js/main.8df15c0d.js",
     "static/js/787.024d8535.chunk.js": "/reactHostingTest/static/js/787.024d8535.chunk.js",
+    "static/media/americanFood1.jpg": "/reactHostingTest/static/media/americanFood1.502774661a1b2e0e72e8.jpg",
     "static/media/Map.jpg": "/reactHostingTest/static/media/Map.ee06aa741252c9f59bb9.jpg",
     "static/media/Home.jpg": "/reactHostingTest/static/media/Home.d85263afee69195b56ff.jpg",
     "static/media/Boramiyu.jpg": "/reactHostingTest/static/media/Boramiyu.bb8d26bd347836af0a15.jpg",
+    "static/media/koreanFood1.jpg": "/reactHostingTest/static/media/koreanFood1.5ddf1617d42d2620cfcd.jpg",
     "index.html": "/reactHostingTest/index.html",
-    "main.964fdded.css.map": "/reactHostingTest/static/css/main.964fdded.css.map",
-    "main.4e25f3e7.js.map": "/reactHostingTest/static/js/main.4e25f3e7.js.map",
+    "main.7fa30eac.css.map": "/reactHostingTest/static/css/main.7fa30eac.css.map",
+    "main.8df15c0d.js.map": "/reactHostingTest/static/js/main.8df15c0d.js.map",
     "787.024d8535.chunk.js.map": "/reactHostingTest/static/js/787.024d8535.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.4e25f3e7.js"
+    "static/css/main.7fa30eac.css",
+    "static/js/main.8df15c0d.js"
   ]
 }
