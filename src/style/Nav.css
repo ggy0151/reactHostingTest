@@ -1,0 +1,16 @@
+.navbar{
+    width: 100vw;
+    height: 6vh;
+    background-color: blue;
+    padding: 15px 0px;
+    top: calc(100vh - 6vh);
+    position: fixed;
+    text-align: center;
+    z-index: 200;
+}
+
+.navbarMenu{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
