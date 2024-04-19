@@ -4,10 +4,10 @@ function Header() {
   return (
     <div className="Header">
       <AppBar
-        style={{ width: '100vw', height: '6vh', backgroundColor: 'blue' }}
+        style={{ width: '100vw', height: '20px', backgroundColor: 'blue' }}
         position="fixed"
       >
-        <Typography variant="h3" color="white" align="center" nowrap>
+        <Typography variant="h3" color="white" align="center" nowrap="true">
           Mega Field Festival
         </Typography>
       </AppBar>
